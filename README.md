@@ -39,3 +39,5 @@ ssh -i <key_pair>.pem <user>@<public_ip>
 :rocket: Happy Cloud Computing!
 
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+https://github.com/ArchAndrew/Multi-tier?tab=readme-ov-file
