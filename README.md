@@ -28,6 +28,14 @@ ssh -i <key_pair>.pem <user>@<public_ip>
 - [AWS EC2 Launch Instance Wizard](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/launching-instance.html)
 - [AWS Documentation](https://docs.aws.amazon.com/)
 
-- ![image](https://github.com/ArchAndrew/Test/assets/125866011/2ec72ce4-3644-4587-a4f5-d3b3fcd11582)
+- ![image](https://github.com/enlightenedcoder82/DeathWishCoffee2/blob/main/HoneyPacket.jpg)
 
-![ghtest1png](https://github.com/ArchAndrew/Test/assets/125866011/b3bcd586-98ae-4785-bdb2-84dd2513a54e)
+
+
+<img src= "https://github.com/enlightenedcoder82/DeathWishCoffee2/blob/main/HoneyPacket.jpg" alt="image description" style="width:450px;">
+
+[![All Day!](https://img.shields.io/badge/All%20DaySon%20All%20Damn%20Day!-%E2%9C%A8-red)](https://www.youtube.com/shorts/JWz19flMIP4)
+
+:rocket: Happy Cloud Computing!
+
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
